@@ -1,0 +1,6 @@
+@HangFireTutorial_HostAddress = http://localhost:5149
+
+GET {{HangFireTutorial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
